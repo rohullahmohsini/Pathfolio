@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "downloads": {
+    "googlePlay": "",
+    "bazaar": "",
+    "myket": "",
+    "apk": ""
+  },
+  "contact": {
+    "email": "pathfolio.rm@gmail.com"
+  },
+  "ads": {
+    "en": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "fa": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ps": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "screenshots": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "texts": {
+    "en": {},
+    "fa": {},
+    "ps": {}
+  }
+}
